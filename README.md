@@ -108,7 +108,7 @@ You can run the cells sequentially to reproduce the training, attacks, and visua
 ---
 
 
-```markdown
+
 ## 🙏 Acknowledgements
 
 * **Course:** Deep Learning (Neural Networks) - University of Tehran
